@@ -33,7 +33,8 @@ Todo_app/
 │ │ │ └── resources/
 │ │ │ ├── application.properties
 │ │ │ └── templates/tasks.html
-![Todo App Screenshot](<img width="1766" height="971" alt="Screenshot 2025-07-28 104638" src="https://github.com/user-attachments/assets/80ecd802-1f42-4e25-b2a6-bba41ea8f25a" />
+![Todo App Screenshot](<img width="1766" height="971" alt="Screenshot 2025-07-28 104638 (1)" src="https://github.com/user-attachments/assets/8b0a4cf6-eee6-40f2-9a30-04d00f1179e5" />
+
 )
 
 
